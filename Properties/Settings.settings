@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="AlwaysOnTop.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="TopMost_ON" Type="System.String" Scope="User">
+      <Value Profile="(Default)">LeftShift+F2</Value>
+    </Setting>
+    <Setting Name="TopMost_OFF" Type="System.String" Scope="User">
+      <Value Profile="(Default)">LeftShift+F3</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
